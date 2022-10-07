@@ -18,7 +18,7 @@ const posts =[
     },
     content:[
       {type:'paragraph', content:'When analyzing the history of the Internet, the evolution of a semantically intelligent web makes sense. ' },
-      {type:'paragraph',content:'When analyzing the history of the Internet, the evolution of a semantically intelligent web makes sense. Initially, data was presented statically to users. Later, users could interact with this data dynamically. Now, algorithms will use all this data to improve the user experience and make the web more personalized and familiar.'},
+      {type:'paragraph',content:'Initially, data was presented statically to users. Later, users could interact with this data dynamically. Now, algorithms will use all this data to improve the user experience and make the web more personalized and familiar.'},
       {type:'link',content:'maryshell@gmail.com'},
     ],
     publishedAt: new Date('2022-05-03 20:00:00'),
