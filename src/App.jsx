@@ -12,14 +12,14 @@ const posts =[
   {
     id:2,
     author:{
-      avatarUrl: 'https://www.metroworldnews.com.br/resizer/jceTu7c3q3qi9Li1rZKmzL9B2Mw=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/6KFM6RHZSRHRDEO5MDD4H4TLZI.png',
-      name:'Uthred Ragnarson',
-      role:'Eadorlman',
+      avatarUrl: 'https://images.unsplash.com/photo-1515621061946-eff1c2a352bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHx3b21hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+      name:'Mary Shelley',
+      role:'Software Engineer',
     },
     content:[
-      {type:'paragraph', content:'Wyrd bið ful āræd. ' },
-      {type:'paragraph',content:'There is no pain in Valhalla, no sadness, no tears, no broken oaths.'},
-      {type:'link',content:'uthred@lastkigdom'},
+      {type:'paragraph', content:'When analyzing the history of the Internet, the evolution of a semantically intelligent web makes sense. ' },
+      {type:'paragraph',content:'When analyzing the history of the Internet, the evolution of a semantically intelligent web makes sense. Initially, data was presented statically to users. Later, users could interact with this data dynamically. Now, algorithms will use all this data to improve the user experience and make the web more personalized and familiar.'},
+      {type:'link',content:'maryshell@gmail.com'},
     ],
     publishedAt: new Date('2022-05-03 20:00:00'),
   },
@@ -31,9 +31,9 @@ const posts =[
       role:'Web Developer',
     },
     content:[
-      {type:'paragraph', content:'Fala galeraa 👋' },
-      {type:'paragraph',content:'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      {type:'link',content:'darknite'},
+      {type:'paragraph', content:'Hi guys👋' },
+      {type:'paragraph',content:'With Web 3.0, information is more connected thanks to semantic metadata. As a result, the user experience evolves to another level of connectivity that takes advantage of all available information.🚀'},
+      {type:'link',content:'dark@nite.com'},
     ],
     publishedAt: new Date('2022-08-15 20:00:00'),
   },

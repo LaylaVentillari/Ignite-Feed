@@ -9,7 +9,7 @@ import { useState } from 'react';
 // estado = variáveis que eu quero que o componente monitore
 export function Post({author, publishedAt, content}) {
     const [comments, setComments]  = useState([
-       'Destiny is All'
+       'Web3 Revolution'
     ])
 
     const [newCommentText, setNewCommentText] = useState('')
