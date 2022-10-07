@@ -1,7 +1,6 @@
 # Feed front-end in REACTJS
 
-![Screenshot from 2022-08-16 22-35-03](https://user-images.githubusercontent.com/99200113/185015723-f3b0bc67-ab57-4875-9a4f-c1598c1a2d50.png)
-
+![Peek 2022-10-07 17-12](https://user-images.githubusercontent.com/99200113/194645621-c991de7c-e30a-40e3-899c-68712c047fdb.gif)
   ## **Skills Developed**
  
 * ReactJS Fundamentals
